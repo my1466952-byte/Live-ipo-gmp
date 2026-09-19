@@ -50,7 +50,7 @@ Along with GMP, investors generally look at the price band, issue size, subscrip
 
 ## Live IPO GMP and IPO Details
 
-A live IPO tracking page can make it easier to find important information about current IPOs. **Finowings' [Live IPO GMP](https://www.finowings.com/IPO/live-ipo-gmp.php) page** provides IPO-related information including GMP, price band, issue size, subscription status, IPO period and listing details.
+A live IPO tracking page can make it easier to find important information about current IPOs. provides IPO-related information including GMP, price band, issue size, subscription status, IPO period and listing details.
 
 The page also allows users to view IPOs according to their status, such as upcoming, open and closed issues.
 
@@ -115,8 +115,6 @@ Investors looking for **Live IPO GMP Today** can follow a few basic steps:
 5. Compare GMP with the IPO price band.
 6. Review subscription, issue size, IPO dates and listing information.
 7. Research the company's fundamentals before making any investment decision.
-
-**Finowings** provides a dedicated [Live IPO GMP page](https://www.finowings.com/IPO/live-ipo-gmp.php) where users can check available GMP and other IPO details in one place.
 
 ## Important Things to Remember About IPO GMP
 
